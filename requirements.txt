@@ -1,0 +1,13 @@
+# YouTube Downloader — Python dependencies
+# Install: pip install -r requirements.txt
+
+# Core
+yt-dlp>=2024.1.1
+
+# Thumbnail & wallpaper rendering (optional but recommended)
+Pillow>=10.0.0
+
+# Drag & Drop URL support (optional — Phase 3)
+# Install separately if needed:
+#   pip install tkinterdnd2
+tkinterdnd2>=0.3.0
